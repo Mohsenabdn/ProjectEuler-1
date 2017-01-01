@@ -12,5 +12,6 @@ make
 ./run_p1
 ```
 
-##Work on JAVA
-This will give euler problem solution based on JAVA
+## Compiling Instructions JAVA
+
+## Running Instructions JAVA
