@@ -11,6 +11,11 @@ make
 ```
 ./run_p1
 ```
+or  
+```
+./run_p2
+```
+so on  
 
 ## Output Information
 First Line: Answer of problem  
