@@ -1,9 +1,6 @@
 # ProjectEuler
 C++ Library for Project Euler  
 
-## Completed So Far
-1-3
-
 ## Compiling Instructions
 ```
 cd /location/of/downloaded/code/problem-001
@@ -14,4 +11,7 @@ make
 ```
 ./run_p1
 ```
-so on...  
+
+## Output Information
+First Line: Answer of problem  
+Second Line: Execution time in seconds  
