@@ -11,6 +11,11 @@ make
 ```
 ./run_p1
 ```
+or  
+```
+./run_p2
+```
+so on  
 
 ##Work on JAVA
 This will give euler problem solution based on JAVA
