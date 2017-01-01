@@ -15,3 +15,6 @@ make
 ## Output Information
 First Line: Answer of problem  
 Second Line: Execution time in seconds  
+
+##Work on JAVA
+This will give euler problem solution based on JAVA
