@@ -1,21 +1,16 @@
 # ProjectEuler
-C++ Library for Project Euler  
+C++ and JAVA Library for Project Euler  
 
-## Compiling Instructions
+## Compiling Instructions C++
 ```
 cd /location/of/downloaded/code/problem-001
 make
 ```
 
-## Running Instructions
+## Running Instructions C++
 ```
 ./run_p1
 ```
-or  
-```
-./run_p2
-```
-so on  
 
 ## Output Information
 First Line: Answer of problem  
