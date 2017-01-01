@@ -1,21 +1,17 @@
 # ProjectEuler
-C++ Library for Project Euler  
+C++ and JAVA Library for Project Euler  
 
-## Compiling Instructions
+## Compiling Instructions C++
 ```
 cd /location/of/downloaded/code/problem-001
 make
 ```
 
-## Running Instructions
+## Running Instructions C++
 ```
 ./run_p1
 ```
-or  
-```
-./run_p2
-```
-so on  
 
-##Work on JAVA
-This will give euler problem solution based on JAVA
+## Compiling Instructions JAVA
+
+## Running Instructions JAVA
