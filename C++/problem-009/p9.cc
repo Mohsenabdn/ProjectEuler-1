@@ -9,9 +9,7 @@ reduce variables -> reduce n^2 complexity
 -> 2ab + 2000c = (1000)^2
 substitute c = 1000-a-b
 -> b = (1000^2-2000a)/(2000-2a)
-
 So start with some 'a, check if 'b' can be int,
-
 if yes then, 'c' = 1000-'a'-'b'
 return abc
 */
