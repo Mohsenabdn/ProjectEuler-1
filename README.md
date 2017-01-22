@@ -11,6 +11,9 @@ make
 ```
 ./run_p1
 ```
+## Computational Time C++ Routines
+Stored inside file cpptime.txt  
+Units of time indicated are seconds  
 
 ## Compiling Instructions JAVA
 
