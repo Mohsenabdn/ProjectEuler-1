@@ -1,5 +1,5 @@
 # ProjectEuler
-C++ and JAVA Library for Project Euler  
+C++, JAVA and Python Library for Project Euler  
 
 ## Compiling Instructions C++
 ```
@@ -18,3 +18,9 @@ Units of time indicated are seconds
 ## Compiling Instructions JAVA
 
 ## Running Instructions JAVA
+
+## Running Instructions Python
+Navigate to corresponding folder and then run the file
+```
+python p1.py
+```
