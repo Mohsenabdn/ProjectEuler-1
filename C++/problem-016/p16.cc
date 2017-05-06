@@ -48,7 +48,7 @@ long int sum(std::vector<int> vec){
 std::vector<int> operator+(std::vector<int> a, std::vector<int> b){
   std::vector<int> c;
 
-  if(a.size()<b.size()) {std::vector<int> temp = a; a = b; b = temp;}
+  if(a.size()<b.size())  a.swap(b);
 
   //now a is always longer than b
   int carry = 0;

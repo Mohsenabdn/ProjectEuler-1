@@ -1,5 +1,5 @@
 #include<iostream>
-#include <chrono>
+#include<chrono>
 #include<math.h>
 #include<string>
 #include<array>
